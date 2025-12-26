@@ -1,4 +1,4 @@
-# Local Rule-Based Explanations on German Credit Risk
+# Evaluation of a local rule-based explanations on german credit risk dataset
 
 This project applies LORE (Local Rule-Based Explanations) to the German Credit Risk dataset in order to generate and evaluate local explanations for black-box classification models.
 
